@@ -37,8 +37,8 @@ Find the pairwise correlation of all columns in the dataframe(.corr()).Save the 
 # CODE
 ```
 """
-Program Developed by: Kaushika A
-Register Number: 212221230048
+Program Developed by: Nithishkumar P
+Register Number: 212221230070
 """
 import pandas as pd
 import numpy as np
